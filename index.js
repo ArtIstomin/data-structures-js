@@ -3,4 +3,5 @@ module.exports = {
     HashTable: require('./hash-table'),
     LinkedList: require('./linked-list'),
     Queue: require('./queue'),
+    Stack: require('./stack'),
 };
